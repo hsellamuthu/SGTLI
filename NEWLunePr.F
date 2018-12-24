@@ -9,7 +9,7 @@ C     Sun gravity-assist to trans-lunar injection orbits
 c     July 31, 2018
 C     -------------------------------------------------------------
 C     Authors: Harishkumar Sellamuthu, Dr. Ram Krishan Sharma
-C     Department of Aerospace Engineering, Karunya Univ.,
+C     Department of Aerospace Engineering, Karunya Institute of Technology and Sciences,
 C     Coimbatore, India.
 C     -------------------------------------------------------------
 c     Updates:
